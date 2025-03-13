@@ -1,0 +1,14 @@
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\LFM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\LFM.AssemblyInfoInputs.cache
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\LFM.AssemblyInfo.cs
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\LFM.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\source\repos\LFM\LFM\bin\Debug\net8.0\LFM.exe
+C:\Users\ALEX\source\repos\LFM\LFM\bin\Debug\net8.0\LFM.deps.json
+C:\Users\ALEX\source\repos\LFM\LFM\bin\Debug\net8.0\LFM.runtimeconfig.json
+C:\Users\ALEX\source\repos\LFM\LFM\bin\Debug\net8.0\LFM.dll
+C:\Users\ALEX\source\repos\LFM\LFM\bin\Debug\net8.0\LFM.pdb
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\LFM.dll
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\refint\LFM.dll
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\LFM.pdb
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\LFM.genruntimeconfig.cache
+C:\Users\ALEX\source\repos\LFM\LFM\obj\Debug\net8.0\ref\LFM.dll
